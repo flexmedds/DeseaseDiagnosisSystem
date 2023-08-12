@@ -6,11 +6,11 @@ In this era of IT, technology has revolutionized the health domain to a great ex
 
 Clone the repo:
 
-`$ git clone https://github.com/flexmedds/DeseaseDiagnosisSystem.git`
+`$ git clone https://github.com/flexmedds/myFinalYearProject.git`
 
 Open the project's folder:
 
-`$ cd DeseaseDiagnosisSystem`
+`$ cd myFinalYearProject`
 
 install the dependencies:
 
