@@ -104,6 +104,3 @@ In this project, it bid a Machine learning Decision tree map, Navie Bayes, Rando
 
 A separate Doctor profile by which patient can consult corresponding doctor at very same platform. Further, the system can be extended to have more number of symptoms and disease. Currently, it does not recommend medications of the disease and Past history of the disease has not been considered.
 
-
-
-<i>if you like this project, do give it a "Star" Thank you..
