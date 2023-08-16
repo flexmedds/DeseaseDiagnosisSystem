@@ -48,7 +48,7 @@ Navigate to the URL: <http://localhost:8000/>
 
 ### Face Detection
 
-Here we used OpenCV ([haarcascade](https://github.com/vivekagarwal2349/Disease-Diagnosis-system/blob/main/face_detect/haarcascade_frontalface_default.xml)) to detect and crop the face from the image frame. 
+Here we used OpenCV  to detect and crop the face from the image frame. 
 Firstly, while signing up, we took the 100 image from the user's webcam and cropped it. Then, we saved it in the local database.
 
 ### Face Recognition
@@ -81,7 +81,6 @@ Due to big data progress in biomedical and healthcare communities, accurate stud
 
 In this project, it bid a Machine learning Decision tree map, Navie Bayes, Random forest algorithm by using structured and unstructured data from hospital. It also uses Machine learning algorithm for partitioning the data. To the highest of gen, none of the current work attentive on together data types in the zone of remedial big data analytics. Compared to several typical calculating algorithms, the scheming accuracy of the proposed algorithm reaches 94.8% with an regular speed which is quicker than that of the unimodal disease risk prediction algorithm and produces report.
 
-[code refer](https://www.kaggle.com/code/prashfio/clinical-decision-support-system)
 
 ## Some screenshots of this Webapp:
 
